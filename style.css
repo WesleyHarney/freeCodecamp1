@@ -1,4 +1,33 @@
-.header{
-	background-color: pink;
+.main-header{
 	text-align: center;
+	background-image: url(img/ninacover.jpg);
+	padding-bottom: 460px;
+}
+.main-h1 {
+	color: white;
+}
+/*figure out why it won't change this color */
+.h3-man{
+	color: white;
+}
+h1{
+	font-size: 5em;
+}
+h3{
+	font-size: 1em;
+}
+.musical{
+
+}
+
+.activism{
+
+}
+
+.laterlife{
+
+}
+
+ul{
+
 }
