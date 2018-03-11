@@ -12,7 +12,13 @@
 	color: white;
 }
 
+body{
+	font-family: sans-serif;
 
+}
+p{
+	line-height: 1.5em;
+}
 
 h1{
 	font-size: 5em;
@@ -22,7 +28,7 @@ h3{
 }
 .column{
 	float: left;
-	width: 33.3%;
+	width: 440px;
 	padding-bottom: 200px;
 
 }
