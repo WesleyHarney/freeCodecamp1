@@ -1,7 +1,8 @@
 .main-header{
 	text-align: center;
 	background-image: url(img/ninacover.jpg);
-	padding-bottom: 460px;
+	padding-bottom: 415px;
+	color: white;
 }
 .main-h1 {
 	color: white;
@@ -10,24 +11,23 @@
 .h3-man{
 	color: white;
 }
+
+
+
 h1{
 	font-size: 5em;
 }
 h3{
 	font-size: 1em;
 }
-.musical{
+.column{
+	float: left;
+	width: 33.3%;
+	padding-bottom: 200px;
 
 }
 
-.activism{
-
-}
-
-.laterlife{
-
-}
-
-ul{
-
+.row{
+	background-color: lightgrey;
+	border: 1px solid red;
 }
