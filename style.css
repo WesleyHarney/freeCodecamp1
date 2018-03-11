@@ -1,6 +1,7 @@
 .main-header{
 	text-align: center;
 	background-image: url(img/ninacover.jpg);
+	background-size: cover;
 	padding-bottom: 415px;
 	color: white;
 }
